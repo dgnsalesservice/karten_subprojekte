@@ -1,0 +1,109 @@
+Hier bauen wir aus.
+Lingen Nord West
+Lingen Stadt
+Lingen Nord Ost
+Nordhorn Neuberlin
+Nordhorn Blumensiedlung
+Nordhorn West
+Nordhorn Bookholt Süd
+Nordhorn Bakelde
+Nordhorn Zentrum
+Nordhorn Mitte
+Nordhorn Blanke
+Nordhorn Bentheimerstr.
+Nordhorn Bookholt Nord
+Ibbenbüren Nord
+Ibbenbüren Zentrum
+Ibbenbüren West
+Ibbenbüren Laggenbeck
+Rheine Ost
+Rheine Eschendorf
+Rheine Dorenkamp
+Rheine Wietesch
+Rheine West
+Rheine Schotthock
+Rheine Mesum
+Rheine Hauenhorst
+Greven Süd
+Greven Nord
+Emsdetten West
+Emsdetten Ost
+Quakenbrück Südost
+Quakenbrück Nord
+Quakenbrück Südwest
+Groß Mimmelage
+Bevern
+Essen
+Löningen Süd
+Löningen Nord
+Bramsche Ueffeln
+Neuenkirchen
+Alfhausen Ueffelner Straße
+Alfhausen
+Hesepe
+Bersenbrück
+Badbergen
+Natrup Hagen Gellenbeck
+Holzhausen
+Hagen am Teutoburger Wald
+Georgsmarienhütte West
+Harderberg
+Georgsmarienhütte Mitte
+Osnabrück Sutthausen
+Glandorf Süd
+Glandorf Nord
+Dissen Zentrum
+Bad Rothenfelde
+Bad Laer Süd
+Bad Laer Nord Ost
+Bad Laer Mitte
+Osnabrück Atterfeld
+Osnabrück Atter
+Osnabrück Eversburg
+Hasbergen West
+Hasbergen Ost
+Hasbergen Nord
+Hasbergen Gaste
+Bramsche Ost
+Bramsche Mitte
+Bramsche West
+Bramsche Nord
+Bramsche Süd
+Bramsche Wasserwerk
+Bramsche Markenweg
+Bramsche Malgartener Str.
+Bramsche Gartenstadt
+Bramsche Lappenstuhl
+Wallenhorst Hollage
+Bramsche Engter
+Bissendorf Süd West
+Bissendorf Süd Ost
+Bissendorf Nord
+Wissingen
+Wallenhorst Rulle
+Wallenhorst Gruthügel
+Wallenhorst Zentrum
+Wallenhorst Lechtingen
+Wallenhorst Harenburgsiedlung
+Osnabrück Wüste Ost
+Osnabrück Katharinenviertel
+Osnabrück Sonnenhügel
+Osnabrück Gartlage
+Osnabrück Schölerberg
+Osnabrück Schinkel
+Belm Süd
+Belm Nord
+Belm Mitte
+Osnabrück Lüstringen Darum
+Ostercappeln West
+Ostercappeln Ost
+Venne
+Bad Essen West
+Bad Essen Ost
+Bad Essen Mitte
+Bad Essen Marina
+Bad Essen Lockhausen
+Bad Essen Harpenfeld
+Bad Essen Wittlage
+Bad Essen Wehrendorf
+Bohmte
