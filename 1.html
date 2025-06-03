@@ -139,8 +139,8 @@
             <body>
             <div id="map"></div>
             <div id="legend">
-                <div><span style="display:inline-block; width:20px; height:10px; background:#00143C; margin-right:5px;"></span>Ausbauphase 1: Ausbau bei ausreichender Nachfrage</div>
-                <div><span style="display:inline-block;width:20px; height:10px; background:#FF7F00; margin-right:5px;"></span>Ausbauphase 2: Interessenbekundung möglich</div>
+                <div><span style="display:inline-block; width:20px; height:10px; background:#FF7F00; margin-right:5px;"></span>Ausbauphase 1: Ausbau bei ausreichender Nachfrage</div>
+                <div><span style="display:inline-block;width:20px; height:10px; background:#00143C; margin-right:5px;"></span>Ausbauphase 2: Interessenbekundung möglich</div>
             </div>
             <script>
                 const initialCoordinates = [50.043598746548746, 8.440936923249998];
@@ -166,9 +166,9 @@
                 const geoLayer = L.geoJSON(geoJsonData, {
                     style: feature => {
                         if (feature.properties.dgn_phase === 2) {
-                            return { stroke: false, fillColor: '#FF7F00', fillOpacity: 0.75 };
-                        } else {
                             return { stroke: false, fillColor: '#00143C', fillOpacity: 0.6 };
+                        } else {
+                            return { stroke: false, fillColor: '#FF7F00', fillOpacity: 0.75 };
                         }
                     }
                 });
